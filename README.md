@@ -9,7 +9,7 @@ localhost:4321/aprilusers/Vehova%20Ksenia
 
 localhost:4321/aprilusers/myking
 
-В первый раз при добавлении себя не указала пароль. Для проверки работоспособность проверила на логине "myking"
+В первый раз при добавлении себя не указала пароль. Для проверки работоспособности проверила на логине "myking"
 
 ![Alt Text](https://github.com/Kseniaveh/Mongo-and-Express/blob/master/password%20KV.jpg)
 
